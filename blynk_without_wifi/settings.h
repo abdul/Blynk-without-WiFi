@@ -6,7 +6,7 @@
 How often you would like to call function? Enter time in milliseconds  
  **************************************************/
 
-#define UPTIME_TIME          1000L                       // How often you wish to get PZEM data. Enter time in milliseconds 
+#define UPTIME_TIME          1000L                       // How often you would like to call function. Enter time in milliseconds 
 
 
 /***************************************************
